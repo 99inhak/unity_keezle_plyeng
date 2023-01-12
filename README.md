@@ -1,5 +1,12 @@
 # unity_first-project
 유니티 첫 프로젝트
+개발 기간 : 2022.10.03 ~ 2022.10.14
+현장실습 유니티 기획서보고 프로젝트 제작해보기
+
+![KakaoTalk_20230112_155608108_01](https://user-images.githubusercontent.com/85202681/211998576-65f87f7d-07b7-45f7-9cb2-28fe3d48d5c4.png)
+![KakaoTalk_20230112_155608108](https://user-images.githubusercontent.com/85202681/211998600-be2898e7-03d4-45d5-817b-5c5b164514a0.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/85202681/209511188-4466c40d-f672-4011-80de-7d527b359270.png)
 
